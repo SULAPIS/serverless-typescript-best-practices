@@ -11,3 +11,4 @@ This is a simple serverless application built in TypesScript and uses Node.js 22
 - **Schema validation & input extraction**: Validates and extracts body, params, and query using Zod and Middy.
 - **User authentication**: Extracts userId(sub) from the request that is integrated with JWT auth.
 - **Centralized error handling**: Handles and formats errors in a consistent way.
+- **Pagination support**: Built-in pagination for list APIs.
