@@ -3,6 +3,7 @@
 *.d.ts
 node_modules
 pnpm-lock.yaml
+.$diagram.png.bkp
 
 # CDK asset staging directory
 .cdk.staging
